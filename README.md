@@ -1,4 +1,4 @@
-<img width="3012" height="1519" alt="OD" src="https://github.com/user-attachments/assets/369b674f-65c1-419c-967d-7cb9b17e8c2d" />DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation
+ DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation
 
 📜 Abstract
 
