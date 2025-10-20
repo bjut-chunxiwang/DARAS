@@ -7,7 +7,4 @@ Room Impulse Responses (RIRs) accurately characterize acoustic properties of ind
 <img width="3012" height="1519" alt="OD" src="https://github.com/user-attachments/assets/7d15853d-332b-44dc-861a-efc6a0105cef" />
 
 DARAS
- Overview of the DARAS Blind RIR Estimation Model. This figure illustrates the proposed DARAS model designed to estimate RIR from
- monaural reverberant speech. The model comprises four modules: (1) a Deep Audio Encoder extracting nonlinear features from reverberant speech; (2) the MASS-BRPEmodule, employing state space models (SSMs) to estimate room acoustic parameters and features; (3) a Hybrid-Path Cross-attention Feature
- Fusion module, dynamically guiding audio features integration with room acoustic features to achieve refined reverberation-aware representations; and (4) a DAT Decoder, adaptively segmenting RIR into early reflections and
- late reverberation stages based on the boundary point (Bp) estimated by the MASS-BRPE module, synthesizing each stage individually.
+ Overview of the DARAS Blind RIR Estimation Model. 
