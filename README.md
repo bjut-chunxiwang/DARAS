@@ -11,6 +11,7 @@ DARAS
 
  📖 Citation
 
+```bibtex
 @article{wang2025daras,
   title={DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation},
   author={Wang, Chunxi and Jia, Maoshen and Jin, Wenyu},
