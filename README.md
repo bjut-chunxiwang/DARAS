@@ -8,3 +8,13 @@ Room Impulse Responses (RIRs) accurately characterize acoustic properties of ind
 
 DARAS
  Overview of the DARAS Blind RIR Estimation Model. 
+
+ 📖 Citation
+
+@article{wang2025daras,
+  title={DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation},
+  author={Wang, Chunxi and Jia, Maoshen and Jin, Wenyu},
+  journal={arXiv preprint arXiv:2507.08135},
+  year={2025}
+}
+ 
